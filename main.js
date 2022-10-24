@@ -56,8 +56,8 @@ console.log(
 );
 
 const name = "my name is Giorgi";
-let num5 = 34;
-let num6 = 10;
+let num5 = 2022;
+let num6 = 1998;
 const age = "im";
 const agee = "years old";
 const substractio = num5 - num6;
